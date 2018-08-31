@@ -1,0 +1,14 @@
+*.idea/*
+!.idea/inspectionProfiles/*
+!.idea/runConfigurations/*
+!.idea/codeStyleSettings.xml
+*.iml
+*.ipr
+
+**/credentials.yml
+**/build/
+**/out/
+**/.gradle/
+**/*secret*
+
+**/node_modules/*
